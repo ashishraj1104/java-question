@@ -19,7 +19,7 @@ public class binarysearch {
     public static void main(String[] args) {
         int number[]={1,2,3,4,5,6,7,8,9};
         int key=8;
-        System.out.println("index for key is :" +binsear(number, key)
+        System.out.println("index for key is :" +binsear(number, key));
     }
     
 }
